@@ -1,7 +1,7 @@
 # 01-04-01-DominoProject
 ## DominoProject
 Feladata objektum orientált programban modellezni a dominó játék egy dominóját. Ehhez készítse el a következő osztályhierarchiát:
-Készítse el az oldal (side) osztályt melynek egy adattagja van, az azon az oldalon lévő pöttyök száma és az oldal neve. A pöttyök száma egy egész szám. Készítsen konstruktort az oldal megadására. A pöttyök számából készítsen olvasható tulajdonságot pont (point) néven. 
+Készítse el az oldal (side) osztályt melynek adattagjai az azon az oldalon lévő pöttyök száma és az oldal neve. A pöttyök száma egy egész szám. Készítsen konstruktort az oldal megadására. A pöttyök számából készítsen olvasható tulajdonságot pont (point) néven. 
 Mintakód az osztályhoz:
 ```
 Side rightSide=new Side(„jobb oldal”,3);
